@@ -2,9 +2,9 @@
 ### My name is Thomas N Vilches
 - :pushpin: PhD in Biometrics
 - 🔭 Two years as post-doctoral researcher @ IMECC-UNICAMP and nine months @ York University.
-- 🌱 I am currently member of NewFields Brasil.
-- 📖 I’m currently learning more about Python, Data Science and Machine Learning
-- I'm currently studying at the MBA USP-ESALQ
+- 👓 I hold a MBA in Data Sciences and Analytics.
+- 👨‍💼 I am currently Assistant Professor @IBB-UNESP.
+- 📖 I’m currently learning more about Data Science and Machine Learning
 - Pronouns: He/Him/His
 
 
@@ -20,7 +20,6 @@
 ### Under Development
 
 <div>
-  <img align="center" alt="Thomas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="Thomas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Thomas-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
  </div>
